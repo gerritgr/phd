@@ -23,15 +23,15 @@ I used the wonderful [Clean Thesis](http://cleanthesis.der-ric.de/) template for
 * Background
 
 **Part II: Simulation and Control**
-* Simulation of Markovian Spreading
-* Simulation of non-Markovian Spreading
-* Vaccine Allocation Optimization
-* Covid-19 and the Limitations of Modeling
+* Simulation of Markovian Spreading ([Repo](http://github.com/gerritgr/Rejection-Based-Epidemic-Simulation))
+* Simulation of non-Markovian Spreading ([Repo](http://github.com/gerritgr/non-markovian-simulation))
+* Vaccine Allocation Optimization ([Repo](http://github.com/gerritgr/Simba))
+* Covid-19 and the Limitations of Modeling ([Repo](http://github.com/gerritgr/Covid19Dispersion))
 
 **Part III: Reduction and Inference**
-* Birth-Death Process Abstraction
-* From Networks to Population Models
-* Neural Relational Inference
+* Birth-Death Process Abstraction ([Repo](http://github.com/gerritgr/BD-Reduction))
+* From Networks to Population Models ([Repo](http://github.com/gerritgr/Reducing-Spreading-Processes))
+* Neural Relational Inference ([Repo](http://github.com/gerritgr/GINA))
 
 **Part IV: Concluding Remarks**
 * Conclusion
