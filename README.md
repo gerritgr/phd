@@ -1,6 +1,10 @@
 # Dissertation Thesis
 Official repository for [Gerrit's](https://mosi.uni-saarland.de/people/gerrit/) dissertation. 
 
+
+![Title image](title.png "Title")
+
+
 ## Files
 * `dissertation.pdf` -> Review version of the dissertation
 * `errata.txt` -> List of corrections
