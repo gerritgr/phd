@@ -1,4 +1,4 @@
-# Dissertation Thesis
+# Dissertation - Stochastic Spreading on Complex Networks
 Official repository for [Gerrit's](https://mosi.uni-saarland.de/people/gerrit/) dissertation. 
 
 
