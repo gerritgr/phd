@@ -16,9 +16,9 @@ I used the wonderful [Clean Thesis](http://cleanthesis.der-ric.de/) template for
 
 
 
-## About
+## Content
 
-*Part I: Preliminaries*
+_Part I: Preliminaries_
 * Introduction
 * Background
 
