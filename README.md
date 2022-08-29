@@ -2,8 +2,8 @@
 Official repository for [Gerrit's](https://mosi.uni-saarland.de/people/gerrit/) dissertation. 
 
 ## Files
-`dissertation.pdf` -> Review version of the dissertation
-`errata.txt` -> List of corrections
+* `dissertation.pdf` -> Review version of the dissertation
+* `errata.txt` -> List of corrections
 
 
 ## About
