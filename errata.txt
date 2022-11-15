@@ -1,2 +1,3 @@
 - removed redundant blank page in the beginning
 - p. 198  (Eq in 9.2.3) -> $NN(..)$ not in math font
+- mu instead of sigma in Fig. 9.2
