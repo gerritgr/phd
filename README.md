@@ -8,6 +8,7 @@ Official repository for [Gerrit's](https://mosi.uni-saarland.de/people/gerrit/) 
 ## Files
 * `dissertation.pdf` -> Review version of the dissertation
 * `errata.txt` -> List of corrections
+* `defense_talk_slides_compressed.pdf` -> Slides of the defense talk (pdf export from keynote)
 
 
 ## About
