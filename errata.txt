@@ -2,3 +2,5 @@
 - p. 198  (Eq in 9.2.3) -> $NN(..)$ not in math font
 - mu instead of sigma in Fig. 9.2
 - Fig. caption 3.5, SIR -> SIRS
+- added "(we discuss its existence and uniqueness later)" to Section 9.1
+- Section 2.4.2. "Given a network-state $(t_j, \mathbf{x}_j)$" -> "Given a network-state and time $(t_j, \mathbf{x}_j)$"
